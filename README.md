@@ -1,6 +1,6 @@
 # Introduccion-a-la-Programacion
 
-pequeño repositorio con un proyecto del curso "introduccion a la programacion" 
+Pequeño repositorio con un proyecto del curso "introduccion a la programacion" 
 
 - Usar los tipos básicos de datos del lenguaje Python: números, booleanos, cadenas de caracteres,
   listas, matrices y diccionarios para modelar los datos del problema.
